@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactLiveWecsite/static/css/main.06b1b356.css",
+    "main.js": "/ReactLiveWecsite/static/js/main.f98a6851.js",
+    "static/js/787.955276f1.chunk.js": "/ReactLiveWecsite/static/js/787.955276f1.chunk.js",
+    "static/media/Computer.jpg": "/ReactLiveWecsite/static/media/Computer.738e824cbb9f77ac01ab.jpg",
+    "static/media/MArketing.avif": "/ReactLiveWecsite/static/media/MArketing.9c8b5f8dc9aa6a036a5d.avif",
+    "static/media/Rocket.svg": "/ReactLiveWecsite/static/media/Rocket.2cb44503416ddbfc48ff999038774bf0.svg",
+    "static/media/Degital.avif": "/ReactLiveWecsite/static/media/Degital.32ea4858e651e1fc10a0.avif",
+    "static/media/Software.jpg": "/ReactLiveWecsite/static/media/Software.ea4dd11659edef6c20aa.jpg",
+    "static/media/App.jpg": "/ReactLiveWecsite/static/media/App.3b569422cc23bb2f965c.jpg",
+    "static/media/Android.avif": "/ReactLiveWecsite/static/media/Android.0cd248382f687545b156.avif",
+    "index.html": "/ReactLiveWecsite/index.html",
+    "main.06b1b356.css.map": "/ReactLiveWecsite/static/css/main.06b1b356.css.map",
+    "main.f98a6851.js.map": "/ReactLiveWecsite/static/js/main.f98a6851.js.map",
+    "787.955276f1.chunk.js.map": "/ReactLiveWecsite/static/js/787.955276f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b1b356.css",
+    "static/js/main.f98a6851.js"
+  ]
+}
